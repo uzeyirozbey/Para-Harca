@@ -1,0 +1,6 @@
+[
+    { "id":1, "ad":"kalem",         "fiyat"  :5 ,"urunResmi":"https://cdn.beymen.com/productimages/ggjceyio.a5r_IMG_01_2110082696560_505_704.jpg" },
+    { "id":3, "ad":"Çanta",         "fiyat"  :100 ,"urunResmi":"https://cdn.dsmcdn.com/mnresize/400/-/ty61/product/media/images/20210120/19/55614088/66748853/1/1_org_zoom.jpg" },
+    { "id":4, "ad":"Kalemlik",      "fiyat"  :25  ,"urunResmi":"https://images.ofix.com/product-image/Mas-500-Perfore-Kalemlik-Silindir_RI14032FT1MF289492.jpg" },
+    { "id":5, "ad":"Boya Kalemleri","fiyat"  :45  ,"urunResmi":"https://productimages.hepsiburada.net/s/30/1500/10290381324338.jpg" }
+]
